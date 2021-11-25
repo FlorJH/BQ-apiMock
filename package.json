@@ -1,0 +1,23 @@
+{
+  "name": "api-mock",
+  "version": "1.0.0",
+  "description": "Api mock para Burger Queen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorJH/BQ-apiMock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorJH/BQ-apiMock/issues"
+  },
+  "homepage": "https://github.com/FlorJH/BQ-apiMock#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
